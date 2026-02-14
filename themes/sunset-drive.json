@@ -8,13 +8,13 @@
       "appearance": "dark",
       "style": {
         "accents": [
-          "#FF336666",
-          "#00F59B66",
-          "#FFEA0066",
-          "#33A1FF66",
-          "#FF66F666",
-          "#3CFFED66",
-          "#30305866"
+          "#FF3366",
+          "#00F59B",
+          "#FFEA00",
+          "#33A1FF",
+          "#FF66F6",
+          "#3CFFED",
+          "#303058"
         ],
         "background.appearance": "opaque",
         "border": "#303058",
